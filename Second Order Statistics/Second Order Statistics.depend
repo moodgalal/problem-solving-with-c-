@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485651307 source:f:\my programming work\c++ projects\problem solving\second order statistics\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

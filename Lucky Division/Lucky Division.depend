@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472526035 source:f:\my programming work\c++ projects\problem solving\lucky division\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+

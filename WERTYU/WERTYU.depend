@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1454793122 source:f:\my programming work\courses\c++\c++ projects\wertyu\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+

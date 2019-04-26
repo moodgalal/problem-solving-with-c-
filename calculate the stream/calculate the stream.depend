@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1485802866 source:f:\my programming work\c++ projects\problem solving\calculate the stream\main.cpp
+	<iostream>
+	<stack>
+

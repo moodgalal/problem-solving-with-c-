@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484955867 source:f:\my programming work\c++ projects\training\night at the musuem\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+

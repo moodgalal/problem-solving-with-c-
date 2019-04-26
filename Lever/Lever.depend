@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473250908 source:f:\my programming work\c++ projects\problem solving\lever\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+

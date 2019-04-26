@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1454701570 source:f:\my programming work\courses\c++\c++ projects\alarmclock\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

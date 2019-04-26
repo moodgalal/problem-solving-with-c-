@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484899873 source:f:\my programming work\c++ projects\training\prison break\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

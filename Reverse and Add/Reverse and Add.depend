@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1454852001 source:f:\my programming work\courses\c++\c++ projects\reverse and add\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

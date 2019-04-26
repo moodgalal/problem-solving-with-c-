@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1454757829 source:f:\my programming work\courses\c++\c++ projects\queen\main.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+

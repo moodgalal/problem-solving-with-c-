@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484959224 source:f:\my programming work\c++ projects\training\beautiful matrix\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+

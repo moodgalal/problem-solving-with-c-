@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1456444561 source:f:\my programming work\courses\c++\c++ projects\helpful maths\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+
+1472370237 source:f:\my programming work\c++ projects\problem solving\helpful maths\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

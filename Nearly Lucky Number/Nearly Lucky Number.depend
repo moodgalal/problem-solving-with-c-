@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485652165 source:f:\my programming work\c++ projects\problem solving\nearly lucky number\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

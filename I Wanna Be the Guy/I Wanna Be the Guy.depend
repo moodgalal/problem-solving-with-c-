@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1457032596 source:f:\my programming work\courses\c++\c++ projects\i wanna be the guy\main.cpp
+	<iostream>
+
+1472991498 source:f:\my programming work\c++ projects\problem solving\i wanna be the guy\main.cpp
+	<iostream>
+	<set>
+

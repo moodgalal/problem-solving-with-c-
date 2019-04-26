@@ -1,0 +1,6 @@
+F:\My programming work\courses\C++\C++ projects\next round\next round\bin\Debug\next round.exe.config
+F:\My programming work\courses\C++\C++ projects\next round\next round\bin\Debug\next round.exe
+F:\My programming work\courses\C++\C++ projects\next round\next round\bin\Debug\next round.pdb
+F:\My programming work\courses\C++\C++ projects\next round\next round\obj\Debug\next round.csprojResolveAssemblyReference.cache
+F:\My programming work\courses\C++\C++ projects\next round\next round\obj\Debug\next round.exe
+F:\My programming work\courses\C++\C++ projects\next round\next round\obj\Debug\next round.pdb
